@@ -1,5 +1,5 @@
 # Java-University-Management-System-Project-without-GUI-and-Database
-University Management System Project without GUI (University Level first project)
+University Management System Project without GUI ()
 
 In this project has 4 section:
 1. Staff
